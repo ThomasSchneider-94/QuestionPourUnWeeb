@@ -1,0 +1,95 @@
+{
+  "imagesInformation": [
+    {
+      "imageName": "tempo",
+      "description": "",
+      "start_x": 0.62,
+      "start_y": 0.94,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Call of the Night",
+      "description": "",
+      "start_x": 0.65,
+      "start_y": -0.42
+    },
+    {
+      "imageName": "Death Note",
+      "description": "",
+      "start_x": 0,
+      "start_y": -0.03
+    },
+    {
+      "imageName": "Dr Stone",
+      "description": "",
+      "start_x": -0.034,
+      "start_y": -0.25
+    },
+    {
+      "imageName": "Frieren",
+      "description": "",
+      "start_x": -0.69,
+      "start_y": -0.03
+    },
+    {
+      "imageName": "Fullmetal Alchemist",
+      "description": "",
+      "start_x": -0.03,
+      "start_y": 0.89
+    },
+    {
+      "imageName": "Hellsing Ultimate",
+      "description": "",
+      "start_x": 0.36,
+      "start_y": -0.5
+    },
+    {
+      "imageName": "Kaguya-sama",
+      "description": "",
+      "start_x": 0.82,
+      "start_y": 0.33
+    },
+    {
+      "imageName": "Konosuba",
+      "description": "",
+      "start_x": -0.48,
+      "start_y": 0.11
+    },
+    {
+      "imageName": "Link Click",
+      "description": "",
+      "start_x": 0.39,
+      "start_y": 0.93
+    },
+    {
+      "imageName": "One Piece",
+      "description": "",
+      "start_x": 0.45,
+      "start_y": -0.36
+    },
+    {
+      "imageName": "One Punch Man",
+      "description": "",
+      "start_x": -0.77,
+      "start_y": 0.35
+    },
+    {
+      "imageName": "Oshi no Ko",
+      "description": "",
+      "start_x": 0.4,
+      "start_y": 0.24
+    },
+    {
+      "imageName": "Shangri-La Frontier",
+      "description": "",
+      "start_x": 0.86,
+      "start_y": 0.70
+    },
+    {
+      "imageName": "Time Shadow",
+      "description": "",
+      "start_x": 0.1,
+      "start_y": 0.05
+    }
+  ]
+}

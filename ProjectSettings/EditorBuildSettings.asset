@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: bb2d8150bf8cd994ba3b4170bfc152f2
+  - enabled: 1
+    path: Assets/Scenes/QuatreALaSuite.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FaceAFace/FaceAFace.unity
+    guid: eded083585bbc9a468eb00689e1ed414
+  - enabled: 1
+    path: Assets/Scenes/FaceAFace/FaF - Zoom.unity
+    guid: 979a2c8f15a90fb49938b36af2176b35
+  - enabled: 1
+    path: Assets/Scenes/FaceAFace/FaF - Pixel.unity
+    guid: a64dae7935391e040bfb48b0d0c2ea51
+  m_configObjects: {}

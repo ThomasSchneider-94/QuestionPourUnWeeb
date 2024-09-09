@@ -1,0 +1,228 @@
+{
+  "imagesInformation": [
+    {
+      "imageName": "Baccano",
+      "description": "",
+      "start_x": -0.44,
+      "start_y": 0.17,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "BBB",
+      "description": "",
+      "start_x": -0.02,
+      "start_y": 0.22,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Berserk",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.16,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Blue Giant",
+      "description": "",
+      "start_x": 0.48,
+      "start_y": -0.4,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Buddy Daddies",
+      "description": "",
+      "start_x": -0.16,
+      "start_y": 0.27,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Bunny Girl Senpai",
+      "description": "",
+      "start_x": -0.03,
+      "start_y": 0.08,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Chainsaw Man",
+      "description": "",
+      "start_x": 0.18,
+      "start_y": -0.19,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Dandadan",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.53,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Dorohedoro",
+      "description": "",
+      "start_x": -0.02,
+      "start_y": 0.26,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Dr Stone",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.77,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Grand Blue",
+      "description": "",
+      "start_x": 0.01,
+      "start_y": -0.67,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Hells Paradise",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.52,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Jojo",
+      "description": "",
+      "start_x": -0.23,
+      "start_y": 0.64,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Kaiju",
+      "description": "",
+      "start_x": 0.11,
+      "start_y": -0.52,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Mob Psycho 100",
+      "description": "",
+      "start_x": -0.02,
+      "start_y": -0.46,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Momonoke",
+      "description": "",
+      "start_x": -0.29,
+      "start_y": 0,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Moriarty",
+      "description": "",
+      "start_x": 0.21,
+      "start_y": 0.51,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Multi",
+      "description": "",
+      "start_x": -0.29,
+      "start_y": 0.10,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "One Punch Man",
+      "description": "",
+      "start_x": -0.08,
+      "start_y": -0.67,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Oshi no Ko",
+      "description": "",
+      "start_x": -0.57,
+      "start_y": 0,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Parasyte",
+      "description": "",
+      "start_x": -0.84,
+      "start_y": -0.51,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Perfect Blue",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.16,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Soul Eater",
+      "description": "",
+      "start_x": -0.40,
+      "start_y": 0.28,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Tensura",
+      "description": "",
+      "start_x": -0.74,
+      "start_y": -0.26,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Toilet Bound Hanako-Kun",
+      "description": "",
+      "start_x": 0,
+      "start_y": -0.84,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Tower of God",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.58,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "TPN",
+      "description": "",
+      "start_x": 0.01,
+      "start_y": 0.09,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Undead Unluck",
+      "description": "",
+      "start_x": 0,
+      "start_y": 0.07,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Vinland Saga",
+      "description": "",
+      "start_x": 0.43,
+      "start_y": 0.33,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Violet Evergarden",
+      "description": "",
+      "start_x": -0.57,
+      "start_y": -0.05,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Wakfu",
+      "description": "",
+      "start_x": 0.33,
+      "start_y": -0.73,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Weathering with You",
+      "description": "",
+      "start_x": -0.05,
+      "start_y": -0.39,
+      "pixelSize": 100
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Mini Game",
+            "id": "9572a576-119c-499c-86ab-bd4fa19d80e1",
+            "actions": [
+                {
+                    "name": "Reset",
+                    "type": "Button",
+                    "id": "87012b13-70b8-4eb2-bf5e-8f822c74b17d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5cd94b35-da0f-4c0e-b826-0294444e8a7c",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "FaF",
+            "id": "a80ee6b9-e205-495d-bf8c-294702842acd",
+            "actions": [
+                {
+                    "name": "Choose who start",
+                    "type": "Value",
+                    "id": "40156199-bf10-4f0c-8b15-92ecd8c4f416",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Start Game",
+                    "type": "Button",
+                    "id": "d70eef6e-758c-4a14-a98e-63103e0c915c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Answer",
+                    "type": "Button",
+                    "id": "d179578e-edae-4da0-9d11-1f8fca9b16a5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "Left - Right",
+                    "id": "767a53ef-0ee2-4bf6-ac57-75943fbfdce0",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Choose who start",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "left",
+                    "id": "a3d03669-598b-4ad5-9653-0f034eca5672",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Choose who start",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "7f46f150-8ead-454b-8ab6-2de5402b0cc4",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Choose who start",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "7d40986e-0733-4891-a0d3-d47ee53cf01f",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Game",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92980a8e-3691-4824-90db-e1e83fa79a76",
+                    "path": "<Keyboard>/ctrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Answer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "FaF - Images",
+            "id": "df617aa3-09c0-46fa-944f-a6348c212f5b",
+            "actions": [
+                {
+                    "name": "Next",
+                    "type": "Button",
+                    "id": "ef28dc87-d99f-4b59-acc4-bbda1fb9fd8e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f644abbc-407e-4da6-919d-1739e7df5257",
+                    "path": "<Keyboard>/n",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Next",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Pause",
+            "id": "9cc29066-cae9-4cfd-b4ff-d2eec58b1946",
+            "actions": [
+                {
+                    "name": "Pause Game",
+                    "type": "Button",
+                    "id": "3cebac96-c6a8-4e0c-8108-1186b03981e3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "57a98c56-2872-4e37-bc7f-31c3d416f407",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause Game",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
