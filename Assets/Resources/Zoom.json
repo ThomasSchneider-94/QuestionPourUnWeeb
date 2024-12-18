@@ -1,227 +1,108 @@
 {
   "imagesInformation": [
     {
-      "imageName": "Baccano",
+      "imageName": "Appare-Ranman",
       "description": "",
-      "start_x": -0.44,
-      "start_y": 0.17,
+      "start_x": 0.346875,
+      "start_y": -0.670859539,
       "pixelSize": 100
     },
     {
-      "imageName": "BBB",
+      "imageName": "Baccano!",
       "description": "",
-      "start_x": -0.02,
-      "start_y": 0.22,
+      "start_x": -0.146875,
+      "start_y": 0.605555556,
       "pixelSize": 100
     },
     {
-      "imageName": "Berserk",
+      "imageName": "Bastard - Heavy Metal, Dark Fantasy",
       "description": "",
-      "start_x": 0,
-      "start_y": 0.16,
+      "start_x": 0.398,
+      "start_y": 0.199158485,
       "pixelSize": 100
     },
     {
-      "imageName": "Blue Giant",
+      "imageName": "Dororo",
       "description": "",
-      "start_x": 0.48,
-      "start_y": -0.4,
+      "start_x": 0.015625,
+      "start_y": 0.268041237,
       "pixelSize": 100
     },
     {
-      "imageName": "Buddy Daddies",
+      "imageName": "Fullmetal Alchemist",
       "description": "",
-      "start_x": -0.16,
-      "start_y": 0.27,
+      "start_x": -0.602083333,
+      "start_y": 0.011666667,
       "pixelSize": 100
     },
     {
-      "imageName": "Bunny Girl Senpai",
+      "imageName": "Heaven's Design Team",
       "description": "",
-      "start_x": -0.03,
-      "start_y": 0.08,
+      "start_x": 0.13125,
+      "start_y": 0.224376731,
       "pixelSize": 100
     },
     {
-      "imageName": "Chainsaw Man",
+      "imageName": "Interviews with Monster Girls",
       "description": "",
-      "start_x": 0.18,
-      "start_y": -0.19,
+      "start_x": -0.426,
+      "start_y": -0.036666667,
       "pixelSize": 100
     },
     {
-      "imageName": "Dandadan",
+      "imageName": "Le College Noir",
       "description": "",
-      "start_x": 0,
-      "start_y": 0.53,
+      "start_x": 0.046428571,
+      "start_y": -0.18258427,
       "pixelSize": 100
     },
     {
-      "imageName": "Dorohedoro",
+      "imageName": "Sakamoto DAYS",
       "description": "",
-      "start_x": -0.02,
-      "start_y": 0.26,
+      "start_x": -0.61,
+      "start_y": -0.003537736,
       "pixelSize": 100
     },
     {
-      "imageName": "Dr Stone",
+      "imageName": "Shangri-la Frontier",
       "description": "",
-      "start_x": 0,
-      "start_y": 0.77,
+      "start_x": -0.307291667,
+      "start_y": 0.209259259,
       "pixelSize": 100
     },
     {
-      "imageName": "Grand Blue",
+      "imageName": "So I'm a Spider, So What",
       "description": "",
-      "start_x": 0.01,
-      "start_y": -0.67,
+      "start_x": -0.157276995,
+      "start_y": 0.603333333,
       "pixelSize": 100
     },
     {
-      "imageName": "Hells Paradise",
+      "imageName": "The God of High School",
       "description": "",
-      "start_x": 0,
-      "start_y": 0.52,
+      "start_x": 0.452083333,
+      "start_y": 0.546296296,
       "pixelSize": 100
     },
     {
-      "imageName": "Jojo",
+      "imageName": "The Millionaire Detective - Balance UNLIMITED",
       "description": "",
-      "start_x": -0.23,
-      "start_y": 0.64,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Kaiju",
-      "description": "",
-      "start_x": 0.11,
-      "start_y": -0.52,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Mob Psycho 100",
-      "description": "",
-      "start_x": -0.02,
-      "start_y": -0.46,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Momonoke",
-      "description": "",
-      "start_x": -0.29,
-      "start_y": 0,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Moriarty",
-      "description": "",
-      "start_x": 0.21,
-      "start_y": 0.51,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Multi",
-      "description": "",
-      "start_x": -0.29,
-      "start_y": 0.10,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "One Punch Man",
-      "description": "",
-      "start_x": -0.08,
-      "start_y": -0.67,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Oshi no Ko",
-      "description": "",
-      "start_x": -0.57,
-      "start_y": 0,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Parasyte",
-      "description": "",
-      "start_x": -0.84,
-      "start_y": -0.51,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Perfect Blue",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0.16,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Soul Eater",
-      "description": "",
-      "start_x": -0.40,
-      "start_y": 0.28,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Tensura",
-      "description": "",
-      "start_x": -0.74,
-      "start_y": -0.26,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Toilet Bound Hanako-Kun",
-      "description": "",
-      "start_x": 0,
-      "start_y": -0.84,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Tower of God",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0.58,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "TPN",
-      "description": "",
-      "start_x": 0.01,
-      "start_y": 0.09,
+      "start_x": 0.211764706,
+      "start_y": 0.415873016,
       "pixelSize": 100
     },
     {
       "imageName": "Undead Unluck",
       "description": "",
-      "start_x": 0,
-      "start_y": 0.07,
+      "start_x": -0.495117188,
+      "start_y": 0.746537396,
       "pixelSize": 100
     },
     {
-      "imageName": "Vinland Saga",
+      "imageName": "Working !!",
       "description": "",
-      "start_x": 0.43,
-      "start_y": 0.33,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Violet Evergarden",
-      "description": "",
-      "start_x": -0.57,
-      "start_y": -0.05,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Wakfu",
-      "description": "",
-      "start_x": 0.33,
-      "start_y": -0.73,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Weathering with You",
-      "description": "",
-      "start_x": -0.05,
-      "start_y": -0.39,
+      "start_x": -0.245833333,
+      "start_y": 0.307407407,
       "pixelSize": 100
     }
   ]

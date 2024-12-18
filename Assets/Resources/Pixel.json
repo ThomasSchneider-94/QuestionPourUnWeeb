@@ -1,224 +1,105 @@
 {
   "imagesInformation": [
     {
-      "imageName": "A Place Further Than the Universe",
+      "imageName": "Call of the Night",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "A Silent Voice",
+      "imageName": "Cyberpunk Edgerunners",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Ano Hana",
+      "imageName": "Fena - Pirate Princess",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Appare Ranman",
+      "imageName": "Grand Blue",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Bocchi",
+      "imageName": "Jojo's Bizarre Adventure Golden Wind",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Chateau dans le ciel",
+      "imageName": "Oshi no Ko",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Cyberpunk Edgerunner",
+      "imageName": "Otaku Elf",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Daily Life of Highschool Boys",
+      "imageName": "Pokemon",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Erased",
+      "imageName": "Sk8 the Infinity",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Ere des cristaux",
+      "imageName": "The 100 Girlfriends who really really really really really love you",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Film Duo",
+      "imageName": "The Idaten Deities know only Peace",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Horimiya",
+      "imageName": "Toilet Bound Hanako-kun",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Josee",
+      "imageName": "Tower of God",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Kaguya-sama",
+      "imageName": "ZOM 100 - Bucket List of the Dead",
       "description": "",
       "start_x": 0,
       "start_y": 0,
       "pixelSize": 80
     },
     {
-      "imageName": "Konosuba",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Le garcon et la bete",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Les Mémoires de Vanitas",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Made in Abyss",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Magi",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Metropolis",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Noragami",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Paprika",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Paripi Koumei",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Princesse Kaguya",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Samurai Champloo",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "SNK",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Solo Leveling",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "SteinsGate",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Tatami Galaxy",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Time Shadow",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "To Your Eternity",
-      "description": "",
-      "start_x": 0,
-      "start_y": 0,
-      "pixelSize": 80
-    },
-    {
-      "imageName": "Trigun",
+      "imageName": "ZombieLand Saga",
       "description": "",
       "start_x": 0,
       "start_y": 0,
