@@ -1,108 +1,108 @@
 {
   "imagesInformation": [
     {
-      "imageName": "Appare-Ranman",
+      "imageName": "Act-Age",
       "description": "",
-      "start_x": 0.346875,
-      "start_y": -0.670859539,
+      "start_x": -0.241666667,
+      "start_y": 0.722411832,
       "pixelSize": 100
     },
     {
-      "imageName": "Baccano!",
+      "imageName": "All",
       "description": "",
-      "start_x": -0.146875,
-      "start_y": 0.605555556,
+      "start_x": 0.418945313,
+      "start_y": 0.440443213,
       "pixelSize": 100
     },
     {
-      "imageName": "Bastard - Heavy Metal, Dark Fantasy",
+      "imageName": "Dandadan",
       "description": "",
-      "start_x": 0.398,
-      "start_y": 0.199158485,
+      "start_x": -0.418816388,
+      "start_y": 0.555664063,
       "pixelSize": 100
     },
     {
-      "imageName": "Dororo",
+      "imageName": "Gachiakuta",
       "description": "",
-      "start_x": 0.015625,
-      "start_y": 0.268041237,
+      "start_x": 0.282410652,
+      "start_y": 0.293945313,
       "pixelSize": 100
     },
     {
-      "imageName": "Fullmetal Alchemist",
+      "imageName": "Gurren Lagan",
       "description": "",
-      "start_x": -0.602083333,
-      "start_y": 0.011666667,
+      "start_x": -0.141630901,
+      "start_y": 0.366,
       "pixelSize": 100
     },
     {
-      "imageName": "Heaven's Design Team",
+      "imageName": "Magi",
       "description": "",
-      "start_x": 0.13125,
-      "start_y": 0.224376731,
+      "start_x": -0.151041667,
+      "start_y": 0.4765625,
       "pixelSize": 100
     },
     {
-      "imageName": "Interviews with Monster Girls",
+      "imageName": "MDUD",
       "description": "",
-      "start_x": -0.426,
-      "start_y": -0.036666667,
+      "start_x": -0.017142857,
+      "start_y": 0.194285714,
       "pixelSize": 100
     },
     {
-      "imageName": "Le College Noir",
+      "imageName": "Monster",
       "description": "",
-      "start_x": 0.046428571,
-      "start_y": -0.18258427,
+      "start_x": 0.013671875,
+      "start_y": 0.077348066,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "ORV",
+      "description": "",
+      "start_x": 0.021221865,
+      "start_y": -0.077209302,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Oshi no Ko",
+      "description": "",
+      "start_x": 0.249114522,
+      "start_y": -0.281067556,
+      "pixelSize": 100
+    },
+    {
+      "imageName": "Promare",
+      "description": "",
+      "start_x": 0.041916168,
+      "start_y": 0.198,
       "pixelSize": 100
     },
     {
       "imageName": "Sakamoto DAYS",
       "description": "",
-      "start_x": -0.61,
-      "start_y": -0.003537736,
+      "start_x": 0.099497487,
+      "start_y": 0.476878613,
       "pixelSize": 100
     },
     {
-      "imageName": "Shangri-la Frontier",
+      "imageName": "The Devil Is a Part-Timer",
       "description": "",
-      "start_x": -0.307291667,
-      "start_y": 0.209259259,
+      "start_x": 0.322916667,
+      "start_y": 0.318885449,
       "pixelSize": 100
     },
     {
-      "imageName": "So I'm a Spider, So What",
+      "imageName": "Time Shadow",
       "description": "",
-      "start_x": -0.157276995,
-      "start_y": 0.603333333,
+      "start_x": -0.465,
+      "start_y": 0.276666667,
       "pixelSize": 100
     },
     {
-      "imageName": "The God of High School",
+      "imageName": "Wakfu",
       "description": "",
-      "start_x": 0.452083333,
-      "start_y": 0.546296296,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "The Millionaire Detective - Balance UNLIMITED",
-      "description": "",
-      "start_x": 0.211764706,
-      "start_y": 0.415873016,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Undead Unluck",
-      "description": "",
-      "start_x": -0.495117188,
-      "start_y": 0.746537396,
-      "pixelSize": 100
-    },
-    {
-      "imageName": "Working !!",
-      "description": "",
-      "start_x": -0.245833333,
-      "start_y": 0.307407407,
+      "start_x": 0.05931612,
+      "start_y": 0.469726563,
       "pixelSize": 100
     }
   ]

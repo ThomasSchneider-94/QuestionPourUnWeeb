@@ -2407,7 +2407,7 @@ MonoBehaviour:
   description: {fileID: 1632442295}
   imageToCapture: {fileID: 1114116923}
   captureCamera: {fileID: 622769519}
-  finalImage: {fileID: 21300000, guid: 38b80ab8fd577e24b991a5aeda4d8da2, type: 3}
+  finalImage: {fileID: 21300000, guid: 12e9b28cd37ac82449a65540cc3264d2, type: 3}
   showAnswerButton: {fileID: 50900876}
   returnMenuButton: {fileID: 1986195159}
   cameraFOV: 64
@@ -3676,7 +3676,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 214764232c4560d418e2ca84c5db021e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1b7e6ea0b12612d419d1e590cef37e18, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
